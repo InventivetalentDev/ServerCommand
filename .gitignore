@@ -1,0 +1,6 @@
+.git
+*.idea/
+*.iml
+*.iws
+*.settings
+*/target

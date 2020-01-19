@@ -1,0 +1,9 @@
+name: ServerCommand
+main: org.inventivetalent.servercommand.ServerCommandPlugin
+author: inventivetalent
+version: ${project.version}
+
+commands:
+  server:
+    description: "Spigot-side bungee /server command"
+    usage: "/<command> <server>"
